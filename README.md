@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a Data Scientist and AI Engineer based in Indonesia.
 <!--
 **neilfatalis/neilfatalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
